@@ -100,7 +100,7 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-    /*grouped all h3 into one line however alignment not working*/
+    /*grouped h3 elements refactoring CSS*/
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center; 
